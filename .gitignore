@@ -1,0 +1,17 @@
+*.pyc
+__pycache__/
+db.sqlite3
+/media/
+
+*.env
+settings.py
+
+venv/
+.env/
+
+*.db
+*.sqlite3
+
+.idea/
+.vscode/
+*.swp
